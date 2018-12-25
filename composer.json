@@ -1,0 +1,32 @@
+{
+    "name": "hellohappy/showphotofortencentcos",
+    "type": "phpbb-extension",
+    "description": "show the photoes for TencentCOS extension when you click the thumbnail rather then download the photoes, which may also work in the AWS S3 extension.",
+    "homepage": "https://www.postgradute.top",
+    "version": "1.0.0",
+    "time": "2018-12-25",
+    "keywords": [
+        "phpbb",
+        "extension",
+        "Show photo for tencentcos extension"
+    ],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "ZWYang",
+            "homepage": "https://www.postgradute.top",
+            "email": "775918818@qq.com",
+            "role": "Extension Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "phpbb/phpbb": ">=3.1.0"
+    },
+    "extra": {
+        "display-name": "Show photo for tencentcos extension",
+        "soft-require": {
+            "phpbb/phpbb": ">=3.1.0"
+        }
+    }
+}
