@@ -1,6 +1,6 @@
 # phpBB Advanced Display Thumbnail Extension
 
-@copyright (c) 2018 ZWYang Limited <https://www.postgraduate.top>
+@copyright (c) 2018-2021 ZWYang Limited <https://www.postgraduate.top>
 
 Advanced Display Thumbnail! If you want to know more about this extension, https://www.postgraduate.top/viewtopic.php?f=8&t=37.
 

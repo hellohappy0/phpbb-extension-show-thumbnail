@@ -3,7 +3,7 @@
 * styles/prosilver/template/jquery.ShowImage.js
 *
 * @author Thorsten Hartmann (www.th23.net)
-* @copyright (c) 2018 ZWYang Limited <https://www.postgraduate.top>
+* @copyright (c) 2018-2021 ZWYang Limited <https://www.postgraduate.top>
 * @license http://opensource.org/licenses/gpl-license.php GNU Public License
 * 
 */
@@ -31,7 +31,7 @@ function imgShow_image(outerdiv, innerdiv, bigimg, _this){
     $(bigimg).attr("src", src);
   
     /*get the width and height of the real photoes*/  
-    $("<img/>").attr("src", src).load(function(){  
+    $("<img/>").attr("src", src).on('load',function(){  
         var windowW = $(window).width();
         var windowH = $(window).height();
         var realWidth = this.width;

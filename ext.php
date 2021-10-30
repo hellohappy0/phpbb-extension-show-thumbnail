@@ -1,6 +1,6 @@
 <?php
 /**
-* @copyright (c) 2018 ZWYang Limited <https://www.postgraduate.top>
+* @copyright (c) 2018-2021 ZWYang Limited <https://www.postgraduate.top>
 * @license GNU General Public License, version 2 (GPL-2.0)
 *
 */

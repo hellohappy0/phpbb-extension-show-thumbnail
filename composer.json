@@ -3,8 +3,8 @@
     "type": "phpbb-extension",
     "description": "show the photoes for TencentCOS extension when you click the thumbnail rather then download the photoes, which may also work in the AWS S3 extension.",
     "homepage": "https://www.postgradute.top",
-    "version": "1.0.0",
-    "time": "2018-12-25",
+    "version": "1.0.1",
+    "time": "2021-10-30",
     "keywords": [
         "phpbb",
         "extension",
@@ -15,7 +15,7 @@
         {
             "name": "ZWYang",
             "homepage": "https://www.postgradute.top",
-            "email": "775918818@qq.com",
+            "email": "admin@postgradute.top",
             "role": "Extension Developer"
         }
     ],
